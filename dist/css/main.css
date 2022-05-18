@@ -1,0 +1,9 @@
+.container {
+  margin: 20px auto;
+  padding: 0;
+  display: flex;
+}
+
+h3 {
+  color: rgb(64, 193, 248);
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,11 @@
+.container {
+  margin: 20px auto;
+  padding: 0;
+  display: flex;
+}
+
+$blue: rgb(64, 193, 248);
+
+h3 {
+  color: $blue;
+}
