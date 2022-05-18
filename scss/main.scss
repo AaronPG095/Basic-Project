@@ -1,5 +1,5 @@
 .container {
-  margin: 20px auto;
+  margin: 20px 40px;
   padding: 0;
   display: flex;
 }
@@ -9,3 +9,5 @@ $blue: rgb(64, 193, 248);
 h3 {
   color: $blue;
 }
+
+@import "../../node.modules/bootstrap/scss/bootstrap.scss";
